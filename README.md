@@ -1,6 +1,3 @@
-# React-Block-Navigator
-A React-based application demonstrating state management and DOM manipulation by enabling dynamic movement of a block within a box.
-
 # React Block Mover
 
 A React application that demonstrates a movable block within a container using modern React practices.
@@ -113,4 +110,3 @@ To modify the block mover:
   "react-scripts": "5.0.1"
 }
 ```
-
