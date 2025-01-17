@@ -1,6 +1,4 @@
-# React Block Mover
 
-A React application that demonstrates a movable block within a container using modern React practices.
 
 ## Tech Stack
 
