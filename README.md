@@ -23,7 +23,8 @@
 1. Navigate to the project directory:
 
 ```bash
-cd block_mover
+cd React-Block-Navigator
+
 ```
 
 2. Install dependencies:
